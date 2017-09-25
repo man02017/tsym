@@ -1,88 +1,68 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://goo.gl/2rh3X1" group-title="Entretenimiento", Cartoon Network
-https://live56.vkuserlive.com/637614/live/B18eNlNDfE9B9mYO/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://oneplay.tv/assets/uploads/aztrece-en-vivo-por-internet-online.png", Azteca 13
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
+https://live58.vkuserlive.com/639906/live/0/ccQzU2bE5vQUVjTTpMUlhDXA/playlist.m3u8?extra=SPrzZIeHJcnyV71vFbSXDTdaAfc-hKzmoCYIn0em5I1P_-OWH14sxAYxGbecflvwscC73XzYhypC4kZaHsHJlZTcob-YWgaao05vyXCVvNWsH9cf6kVqkgjemfDQBQ
 
 #EXTINF:-1 tvg-logo="https://goo.gl/F8Z7aS", History Channel
-https://live64.vkuserlive.com/637613/live/uK7viRRAfwgGmNES/playlist.m3u8
+https://live53.vkuserlive.com/639913/live/0/7aTUd9MENVbEdtTH99WkdsaQ/playlist.m3u8?extra=GbES6SCpJMtnyQ_Anxd_2i7kEwmfNsCehXFpcEKlKuRcPnxodE0DyP5Fxtmk5n9bdS1YYX-Wg9MImFE-ppmndykwMC4tX7cECZnEwIVMQlEB8eJ5_WrkcW3C6W_U
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/new-disney-channel-logo-9E50BDA03A-seeklogo.com.gif", Disney Junior
-https://live58.vkuserlive.com/637612/live/1s2M52NAf3_nsF86/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/3XyKKH", group-title="Entretenimiento", Disney Channel
+https://live67.vkuserlive.com/620011/live/0/6fPnE2QDc9QUFhMzB5SkM7ag/playlist.m3u8?extra=xFa6B6ApPrRuuvnUJ0YtxKRjS0_fqzTEktlcgmxnFLM0lZdblxl7xROmT8I4rcIsqWaqXtejc99WZp6thfeks2LAWHb35mmSoYEh-cieiVS6IuLzbP7E5UuoFtnE
 
-#EXTINF:-1 tvg-logo="http://freevectorlogo.net/wp-content/uploads/2011/06/telemundo-logo-vector-200x200.png", Telemundo
-https://live63.vkuserlive.com/637613/live/DgZHP3tDfGc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/DxKwng", Univisión
-https://live63.vkuserlive.com/639914/live/6GAh2XxDfGA/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tutvplay.com/img/ch/Telefe.png", Telefe
-https://vivoplay-i.akamaihd.net/hls/live/261555/canal1/master2500k.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/de9QAq", Telemundo
+https://live58.vkuserlive.com/639903/live/0/1bSWddRlA8cUJqRG0/playlist.m3u8?extra=tUNBCxiUqAZcIp8aoJW3jiiLimSKxNRdzZSL-g362vXm_qVG1K5tWZhB16wLVgT7jMzpFme3bR6hIaNlXLgpB3GAg_4sgNkqlisl9xzLMFJ8wqByEgXOdXvhk9EaXQ
 
 #EXTINF:-1 tvg-logo="https://www.bodegaycocina.com/media/caracol.png", Caracol
-https://live61.vkuserlive.com/637609/live/uq3si2lAf3U/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://allsportdb.com/Images/Logo/Large/Competitions/65.png", Canal F1
-https://live93.vkuserlive.com/637601/live/BCJjNY5DfJI/playlist.m3u8
+http://us-b1-p-e-hu2.cdn.mdstrm.com/live-stream/58dc3d471cbe05ff3c8e463e/publish/media_800.m3u8?es=us-b1-p-e-hu2.cdn.mdstrm.com&ote=1505955660906&ot=D2sRw9-RcAWHReKke1wqmQ&proto=http
 
 #EXTINF:-1 tvg-logo="http://latelete.tv/img/americatv.png", América TV (Argentina)
-http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/chunklist_b1596000.m3u8?sense=true
+http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/chunklist_b346000.m3u8?sense=true
 
 #EXTINF:-1 tvg-logo="https://goo.gl/CiDo8m", Latina 
-https://live82.vkuserlive.com/639906/live/ySZn-LhAf6SWvkIg/playlist.m3u8
+https://live92.vkuserlive.com/639905/live/0/aafFpYbStAaENhP1s8XUdrQg/playlist.m3u8?extra=sAQzU6rZPeX9osO71i6jGL4eVwSUWWRDQ1MobryJS7b-gxEPedkEkQfpytM8McYcNNaVT1v1HXpp2fUxMvbp9fawXadQSnHmaT_6tBzYJ7OfTlacsDK-W0GgLozP
+
+#EXTINF:-1 tvg-logo="https://goo.gl/rT6TaL", group-title="Entretenimiento", South Park Online
+https://live63.vkuserlive.com/613502/live/0/2dcHVDYGBkbEFrfFRZcWhyYg/playlist.m3u8?extra=E5K2AQ8gtzECdXf181Ys3WF69C2Q7Ta9xFDYhYVkyAnq6B_vBZaGe52GydSP8j8VVfVAE8QWs_cHJ4ziA5OnhbN1gKtqVE639YYIfZloh6Zl1mFB0lovQjBC26py_g
+
+#EXTINF:-1 tvg-logo="https://tuapppara.com/wp-content/uploads/2016/02/PopCorn-Time.png", Películas de Acción
+https://youtu.be/WOuZXPpx1-0
+
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/128x128/2016/09/13/828579_avatar_512x512.png", Películas de Terror
+https://youtu.be/GjUgBEp8uBM
+
+#EXTINF:-1 tvg-logo="https://goo.gl/zpzKK7", Películas Variadas
+https://youtu.be/Q5CoFe3JBf4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EPY4xa", HBO 
+http://23.237.22.156/3/U2FsdGVkX1%2F3ufvri664SizhzznEYZAmOii4%2FKOHGZpwCosgg20XhrIdO1jJ%2FyBkxYmk8D1eGGcCfNM8hRlC1A%3D%3D/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1456412457.png", ATV
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b981072.m3u8
 
-#EXTINF:-1 tvg-logo="https://ranktopten.com/upload/ax/ho/eric-cartman_c_200x200.png", South Park Online
-https://live69.vkuserlive.com/639906/live/tyBhhhhAfwQZjr06/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wrPcD1", RPC
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://tuapppara.com/wp-content/uploads/2016/02/PopCorn-Time.png", Películas de Acción
-https://hls-ord-1a.vaughnsoft.net/ord/live/live_mega_movieshd/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/4gCKRr" group-title="Entretenimiento", Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/128x128/2016/09/13/828579_avatar_512x512.png", Películas de Terror
-https://hls-ord-1a.vaughnsoft.net/nyc/live/live_mega_extremo/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/zpzKK7", Películas Variadas
-https://hls-ord-1a.vaughnsoft.net/ord/live/live_katyhd/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tutvplay.com/img/ch/HBO-2.png", HBO 2
-http://wowza2.mysoltv.com:1992/Latino_HBO_2/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/NyYmF4", TV MÁS
-http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tutvplay.com/img/ch/Telefe.png", Telefe
+https://vivoplay-i.akamaihd.net/hls/live/261555/canal1/master2500k.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/WWCqa5", TLT TV
 http://enc-fwt.lorini.net/telet/telet/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/145if6", TV Gazeta RN
-http://172.93.110.130:1935/televisaorn/televisaorn/playlist.m3u8
+#EXTINF:0,-group-title="Deportes"
 
-#EXTINF:0,-Deportes-
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://dminc.com/wp-content/uploads/2015/01/clients_media_espn.png", ESPN
+https://live53.vkuserlive.com/639900/live/0/a2PEhVcjJYMUxuRUt3c0x9Rg/playlist.m3u8?extra=9_TuNiIyCeq6D0qxi2bllKdT9q3lk9I2l6h0WeMCebCB1Ese05sfknvR0glGFaJUVDrHs6QwrNWqvClrPP-TAwW4bM8Ft0bKwavW5uC-gfMJ1rHYea9NJ82pHdl5
 
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://dminc.com/wp-content/uploads/2015/01/clients_media_espn.png", ESPN
-https://live68.vkuserlive.com/639910/live/3LPy7V1DfEE/playlist.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://tele-envivo.com/wp-content/uploads/2016/01/espn-2-mexico.png", ESPN 2
+https://live85.vkuserlive.com/613500/live/0/54dFFrNFduP05sSl1aVU5BTg/playlist.m3u8?extra=OUHuD2quio7kmaZJTAwdOytMVKk7qudC5FMD0fNw0HJ7IQkDszEatTy-U0f4_ntcGFhl-ljjxpGGv4luRaNPm6PYITrFlIjka2w-Pwnz6w685b4OjjujxSqfHNrXyw
 
-#EXTINF:-1 tvg-logo="http://tele-envivo.com/wp-content/uploads/2016/01/espn-2-mexico.png", ESPN 2
-https://live98.vkuserlive.com/637611/live/B8GANlJDfE4/playlist.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://goo.gl/1vXb4x", Fox Sports
+https://live85.vkuserlive.com/620008/live/0/c5SzJ-MExvO0tlTkJMc05TVw/playlist.m3u8?extra=EseYTP6rgl5lfYmqD6nLD05bdIbWBRRtAhcmlsx9UywC7Ors_oUPCRnhTIEEoLHfZxkP-SnnZRrfQmmcxYZb3ybOHUofdq5zICvxR9mwbrP1n9CBHdGX824n5auoeA
 
-#EXTINF:-1 tvg-logo="https://goo.gl/1vXb4x", Fox Sports
-https://live82.vkuserlive.com/620008/live/2CBh6eVDfPk/playlist.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://oneplay.tv/assets/uploads/fox-sports-2-en-vivo-por-internet-online.png", Fox Sports 2
+https://live82.vkuserlive.com/613503/live/0/7fQkEzOUlaYU1mSF1fVUV4XA/playlist.m3u8?extra=Ox2EoA7hwtMImAV_4AWvw-wtm-7BJ8Lwj4UH9eBLtHwwlFecWaXu3EIicszacZgVT629mqL4L7DWR3gFhATnN4sVyPnNr9jHR8tQ3b3xnC99qJQppK5cfsvssM5x7w
 
-#EXTINF:-1 tvg-logo="http://oneplay.tv/assets/uploads/fox-sports-2-en-vivo-por-internet-online.png", Fox Sports 2
-https://live72.vkuserlive.com/637602/live/2MiJ6ftDfOc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tutvplay.com/img/ch/Fox-Sports-3.png", Fox Sports 3
-https://live73.vkuserlive.com/637611/live/P3w9DgpDfBY/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://vertelevisor.com/logos/Golperu.png", Gol Perú
-https://live94.vkuserlive.com/639914/live/3Nqb7V9DfEM/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/hJdZjz", Bein Sports HD1 FR
-http://93.174.93.157:8081/live/17870.m3u8?e=1505510849&st=gdUtYq_Tsgtosgbd22T25g
-
-#EXTINF:0,-ANIME-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/wrPcD1", RPC
-http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://vertelevisor.com/logos/Golperu.png", Gol Perú (Funcionando como FOX HD)
+https://live64.vkuserlive.com/637612/live/0/4eOEl2ZjNVOkBgSkxAQHowaQ/playlist.m3u8?extra=E2ms1Uy4JQn8myLbva0yimryMUP-WvGLz-5MZ3xv5b9Hw8boekde65VGGZseFgIdq8qJ4T4zSsZgorGhWbZC3EfSQEeTZMZFNKu8bEo58qlaKI-pBWCRsXHPpiMr5A
